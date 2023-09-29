@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+canvas {
+    border: aliceblue 10px solid;
+}
+.texture {
+    visibility: hidden;
+}
